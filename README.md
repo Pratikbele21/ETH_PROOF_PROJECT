@@ -3,7 +3,7 @@ This course was designed to introduce about some very basic concepts of Web3 and
 
 ## Description
 
-I have created my own token named "OMAT" abbreviated as "OMT". There is the record of its total supply. And if someone mints some OMT tokens then it will be added to the total supply of it. Also if someone burns those tokens, it will get subtracted from the total supply (Only if there is enough balance).
+I have created my own token named "PRATT" abbreviated as "EMB". There is the record of its total supply. And if someone mints some OMT tokens then it will be added to the total supply of it. Also if someone burns those tokens, it will get subtracted from the total supply (Only if there is enough balance).
 
 ## Getting Started
 I wrote the code in Solidity Language, and I used Metacraftere ETH Proof as my learning resource.
@@ -11,7 +11,7 @@ I wrote the code in Solidity Language, and I used Metacraftere ETH Proof as my l
 ### Installing
 
 * I just used the Online Remix IDE for writing the solidity code.
-* Then I created a file in this repository named ETH_PROOF_Submission.sol for publishing that same code on GitHub.
+* Then I created a file in this repository named eth_nft.sol for publishing that same code on GitHub.
 
 ### Executing program
 
@@ -25,7 +25,6 @@ I would highly recommending checking the Metacrafters academy for more such cont
 ## Authors
 
 Pratik Bele
-
 
 ## License
 
